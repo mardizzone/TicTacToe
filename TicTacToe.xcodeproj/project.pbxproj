@@ -60,12 +60,12 @@
 			children = (
 				7F2081B320C0978F009911A2 /* AppDelegate.swift */,
 				7F2081B520C0978F009911A2 /* TicTacToeViewController.swift */,
+				7F2081C520C09FFC009911A2 /* TurnManager.swift */,
+				7F2081CF20C0D319009911A2 /* Model.swift */,
+				7F2081BF20C09790009911A2 /* Info.plist */,
 				7F2081B720C0978F009911A2 /* Main.storyboard */,
 				7F2081BA20C09790009911A2 /* Assets.xcassets */,
 				7F2081BC20C09790009911A2 /* LaunchScreen.storyboard */,
-				7F2081BF20C09790009911A2 /* Info.plist */,
-				7F2081C520C09FFC009911A2 /* TurnManager.swift */,
-				7F2081CF20C0D319009911A2 /* Model.swift */,
 			);
 			path = TicTacToe;
 			sourceTree = "<group>";
